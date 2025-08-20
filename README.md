@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack .NET Developer** with over **18 years** of experience delivering high-performance web solutions to top-tier clients like **Dell, Intel, Walmart**, and dozens of global startups. 
+I'm a **Full-Stack .NET Developer** with over **18 years** of experience delivering high-performance web solutions to top-tier clients like **Dell, Intel, Walmart, DXC**, and dozens of global startups. 
 
 Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)**, I specialize in modern .NET stacks, **Blazor (WebAssembly, Server, MAUI Hybrid)**, cloud-native architecture on **Azure and AWS**, and **AI-powered features using OpenAI APIs**.
 
