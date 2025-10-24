@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-I'm a **Full-Stack .NET Developer** with over **18 years** of experience delivering high-performance web solutions to top-tier clients like **Dell, Intel, Walmart, DXC**, and dozens of global startups.  
+I'm a **Full-Stack .NET Developer** with over **20 years** of experience delivering high-performance web solutions to top-tier clients like **Dell, Intel, Walmart, DXC**, and dozens of global startups.  
 
 Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)**, I specialize in modern .NET stacks, **Blazor (WebAssembly, Server, MAUI Hybrid)**, cloud-native architecture on **Azure and AWS**, and **AI-powered features using OpenAI APIs**.  
 
@@ -57,7 +57,7 @@ Unlock the power of AI in your web apps:
 ✅ Blazor + SignalR Realtime Dashboard for Healthcare Analytics  
 ✅ Multi-Tenant Admin Portal for FinTech Startup  
 
-👉 **View My Portfolio:** [chandradev819.in/portfolio](https://chandradev819.in/portfolio/)  
+👉 **View My Portfolio:** [chandradev819.wordpress.com/portfolio](https://chandradev819.wordpress.com/portfolio/)  
 
 ---
 
@@ -69,7 +69,7 @@ I’m available for freelance, consulting, and remote contract work.
 
 🔗 **Upwork:** [Hire Me on Upwork](https://www.upwork.com/freelancers/~019c71ba664f7209a2)  
 📧 **Email:** chandradev819 [at] hotmail [dot] com  
-🌐 **Website:** [chandradev819.in](https://chandradev819.in)  
+🌐 **Website:** [chandradev819.wordpress.com](https://chandradev819.wordpress.com)  
 
 ---
 
