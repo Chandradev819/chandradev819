@@ -24,7 +24,7 @@ Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)*
 - **Master Essential Azure Services with Blazor**  
   https://www.amazon.com/dp/B0CWS28LMD  
 
-  - **Ultimate Blazor WebAssembly for Web Development**  
+- **Ultimate Blazor WebAssembly for Web Development**  
   https://rb.gy/epbotq 
 
 ## 🧾 Products  
