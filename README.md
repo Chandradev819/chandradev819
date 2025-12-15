@@ -6,13 +6,31 @@
 
 ## 🚀 About Me  
 
-I'm a **Full-Stack .NET Developer** with over **20 years** of experience delivering high-performance web solutions to top-tier clients like **Dell, Intel, Walmart, DXC**, and dozens of global startups.  
+I'm a **Full-Stack .NET Developer** with over **20 years of experience** building high-performance, secure, and scalable web applications for enterprises and fast-growing startups, including **Dell, Intel, Walmart, DXC**, and many others.  
 
-Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)**, I specialize in modern .NET stacks, **Blazor (WebAssembly, Server, MAUI Hybrid)**, cloud-native architecture on **Azure and AWS**, and **AI-powered features using OpenAI APIs**.  
+Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)**, I specialize in **Blazor (WebAssembly, Server, MAUI Hybrid)**, cloud-native development on **Azure & AWS**, and **AI-powered applications using OpenAI APIs**.  
 
-📘 Author of the [**Blazor WebAssembly Book**](https://rb.gy/epbotq)  
-🧾 Creator of [**TaskBill**](https://taskbill.online) — a Blazor-based Timesheet & Invoice SaaS for freelancers and small businesses  
+## 📘 Books & Publications  
 
+- **Blazor 10 Coding Standards & Best Practices**  
+  https://www.amazon.com/dp/B0G5PQP74R  
+
+- **Learn OpenAI with Blazor and C#**  
+  https://www.amazon.com/dp/B0FKVL1QJS  
+
+- **Blazor Components Deep Dive**  
+  https://www.amazon.com/dp/B0FFZRVB5K  
+
+- **Master Essential Azure Services with Blazor**  
+  https://www.amazon.com/dp/B0CWS28LMD  
+
+  - **Ultimate Blazor WebAssembly for Web Development**  
+  https://rb.gy/epbotq 
+
+## 🧾 Products  
+
+- **TaskBill** — Blazor-based Timesheet & Invoice SaaS  
+  👉 https://taskbill.online  
 ---
 
 ## 🧠 Blazor + OpenAI Integration  
