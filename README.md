@@ -12,6 +12,9 @@ Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)*
 
 ## 📘 Books & Publications  
 
+- **Protecting Blazor Web Apps and WebAssembly from Real-World Attack**  
+  https://www.amazon.com/dp/B0G73BMMH4
+  
 - **Blazor 10 Coding Standards & Best Practices**  
   https://www.amazon.com/dp/B0G5PQP74R  
 
