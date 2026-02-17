@@ -34,7 +34,7 @@ Recognized as a **C# Corner MVP** and a **Microsoft Community Contributor (MCC)*
 
 - **TaskBill** — Blazor-based Timesheet & Invoice SaaS  
   👉 https://taskbill.online  
-  - **YouTubeShort (ShortTrendApp)** — Discover Trending YouTube Shorts & Validate Long-Form Video Ideas  
+- **YouTubeShort (ShortTrendApp)** — Discover Trending YouTube Shorts & Validate Long-Form Video Ideas  
   👉 [https://shorttrend.app](https://black-sand-0f71c4d00.2.azurestaticapps.net/)
 ---
 
